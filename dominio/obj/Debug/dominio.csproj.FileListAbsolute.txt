@@ -1,0 +1,6 @@
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\bin\Debug\dominio.dll
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\bin\Debug\dominio.pdb
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.dll
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.pdb
