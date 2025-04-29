@@ -5,9 +5,14 @@ VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokedex-web", "pokedex-web\pokedex-web.csproj", "{6A001D7A-D43D-42C8-8C1F-F9FEA7CFD7AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "..\..\Curso C# Nivel 2\Ejemplo-ADO-net\negocio\negocio.csproj", "{F9636C70-B4B9-4ABD-9CF2-F8EAE0216BA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{F9636C70-B4B9-4ABD-9CF2-F8EAE0216BA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "..\..\Curso C# Nivel 2\Ejemplo-ADO-net\dominio\dominio.csproj", "{05DCD793-0404-4539-8E0C-452DB4116354}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{05DCD793-0404-4539-8E0C-452DB4116354}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40831E00-9AF8-452A-8A08-E56569D1B20C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

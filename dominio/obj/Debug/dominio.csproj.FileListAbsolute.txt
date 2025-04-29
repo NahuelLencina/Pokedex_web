@@ -4,3 +4,9 @@ C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\
 C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.dll
 C:\Users\Nahuel Lencina\Desktop\Programas MP\Curso 2 C#\Ejemplo-ADO-net\dominio\obj\Debug\dominio.pdb
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Cursos Maxi Programa\Curso C# Nivel 3\aplicacion-pokedex-web\dominio\bin\Debug\dominio.dll
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Cursos Maxi Programa\Curso C# Nivel 3\aplicacion-pokedex-web\dominio\bin\Debug\dominio.pdb
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Cursos Maxi Programa\Curso C# Nivel 3\aplicacion-pokedex-web\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Cursos Maxi Programa\Curso C# Nivel 3\aplicacion-pokedex-web\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Cursos Maxi Programa\Curso C# Nivel 3\aplicacion-pokedex-web\dominio\obj\Debug\dominio.dll
+C:\Users\Nahuel Lencina\Desktop\Programas MP\Cursos Maxi Programa\Curso C# Nivel 3\aplicacion-pokedex-web\dominio\obj\Debug\dominio.pdb
